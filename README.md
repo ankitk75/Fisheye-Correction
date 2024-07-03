@@ -25,7 +25,7 @@ Fisheye lenses capture a wide field of view, resulting in significant radial dis
 Methodologies
 -------------
 
-### Midpoint Circle Algorithm
+## Midpoint Circle Algorithm
 
 The Midpoint Circle Algorithm (MCA) is a technique traditionally used in computer graphics for circle rasterization. For fisheye image correction, MCA involves the following steps:
 
@@ -37,7 +37,9 @@ The Midpoint Circle Algorithm (MCA) is a technique traditionally used in compute
 
 This method offers a straightforward correction process ideal for embedded systems.
 
-### Hemi-Cylinder Unwrapping Algorithm
+
+## Hemi-Cylinder Unwrapping Algorithm
+
 
 The Hemi-Cylinder Unwrapping Algorithm uses an equidistant projection model to correct fisheye distortion. Key steps include:
 
